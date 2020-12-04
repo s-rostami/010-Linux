@@ -1,4 +1,8 @@
-## deleting files:
+## Files Main Commands :
+rm, cp, mv, gzip, tar, du, sort, diff
+
+
+## Deleting files:
 - rm file
 - rm -r dir
 - rm -f file
@@ -24,5 +28,14 @@
 - c : create a tar archive
 - x : extract files from the archve
 - t : display the table of contents
+
+## Compressing Files
+- gzip : compress files
+- gunzip : unzip the files
+- gzcat or zcat : see the files inside the zip
+
+## Disk Usage:
+- du: shows the file size
+- du -k : shows in kilobytes
 
 
